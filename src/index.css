@@ -51,6 +51,26 @@ code {
 
 }
 
+.footer{
+  height:100px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  background-color:  #1f2e46;
+  color: rgb(187, 187, 187);
+  text-align: center;
+  font-size: 12PX;
+}
+
+.rights{
+  font-size: 8px;
+}
+
+.link{
+
+  color: rgb(187, 187, 187);
+  text-decoration: none;
+}
 
 
 

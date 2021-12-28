@@ -7,6 +7,7 @@ import Nosotros from './components/Nosotros';
 import Contacto from './components/Contacto';
 import ProyectosDestacados from './components/ProyectosDestacados';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -20,7 +21,7 @@ function App() {
         <Route path="/proyectos_destacados" element={<ProyectosDestacados/>} />
         <Route path="/contacto" element={<Contacto/>} />
       </Routes>
-        
+    <Footer/>
       
     </BrowserRouter>
 
