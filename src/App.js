@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import './App.css';
@@ -8,6 +8,7 @@ import Contacto from './components/Contacto';
 import ProyectosDestacados from './components/ProyectosDestacados';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import NotFound from './components/NotFound';
 
 function App() {
 
@@ -15,12 +16,16 @@ function App() {
   return (
     <BrowserRouter>
     <Navbar></Navbar>
-      <Routes>
+  
+    <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/nosotros" element={<Nosotros/>} />
         <Route path="/proyectos_destacados" element={<ProyectosDestacados/>} />
         <Route path="/contacto" element={<Contacto/>} />
+        <Route path="" element={<NotFound/>}/>
       </Routes>
+ 
+      
     <Footer/>
       
     </BrowserRouter>
