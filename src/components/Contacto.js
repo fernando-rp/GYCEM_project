@@ -15,7 +15,7 @@ const Contacto = ()=>{
                 
 
                 <p className="text">También puedes encontrarnos en nuestro taller ubicado en:</p>
-                <p className="text">Cacique Colín km. 9650, Lampa, R.M., Chile</p>  
+                <p className="text">Cacique Colín km. 9650, Lampa, R.M., Chile.</p>  
             </div>
         </div>
         </div>

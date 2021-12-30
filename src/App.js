@@ -1,5 +1,8 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+
+import { BrowserRouter, Route, Routes, Navigate } from 'react-router-dom';
+
+
 
 import './App.css';
 import Home from './components/Home';
@@ -22,7 +25,12 @@ function App() {
         <Route path="/nosotros" element={<Nosotros/>} />
         <Route path="/proyectos_destacados" element={<ProyectosDestacados/>} />
         <Route path="/contacto" element={<Contacto/>} />
-        <Route path="" element={<NotFound/>}/>
+        <Route path='/404' element={<NotFound/>}/>
+        <Route
+        path="*"
+        element={<Navigate to="/404" />}
+        />
+        
       </Routes>
  
       

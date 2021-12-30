@@ -1,4 +1,8 @@
-body {
+#root {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+
   margin: 0;
   border:0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -8,12 +12,23 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.footer{
+  height:150px;
+  left: 0;
+  position:relative;
+  width: 100%;
+  background-color:  #1f2e46;
+  color: rgb(187, 187, 187);
+  text-align: center;
+  font-size: 12px;  
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
-.carousel-item{
+.home{
   
   height: 48rem;
   
@@ -51,16 +66,7 @@ code {
 
 }
 
-.footer{
-  height:100px;
-  left: 0;
-  position: absolute;
-  width: 100%;
-  background-color:  #1f2e46;
-  color: rgb(187, 187, 187);
-  text-align: center;
-  font-size: 12PX;
-}
+
 
 .rights{
   font-size: 8px;
@@ -72,21 +78,24 @@ code {
   text-decoration: none;
 }
 
-#carousel_card{
-
-  height: 250px;
-}
 
 .card{
   border: 0px !important;
 }
 
-.title-slide{
+.title-slide, .subtitle-slide{
   text-shadow: 2px 2px #5f6268;
 }
 
 .contacto{
   height: 800px;
 }
- 
+
+.logo-gycem-home{
+  width: 95%;
+}
+
+
+
+
 
