@@ -24,15 +24,15 @@ const Home = ()=>{
             <div className="home carousel-item active">
               <img src={slide1} className="carousel-img d-block w-100" alt="..." />
               <div className="carousel-caption d-md-block">
-                <h1 className='title-slide'>Ingeniería, Fabricación y Montaje de Estructuras Metálicas</h1>
-                <h4 className='subtitle-slide'>Más de 30 años de experiencia nos avalan</h4>
+                <h1 className='title-slide'>Ingeniería, Diseño, Fabricación y Montaje de Estructuras Metálicas</h1>
+                <h4 className='subtitle-slide'>Más de 15 años de experiencia nos avalan</h4>
               </div>
             </div>
             <div className="home carousel-item">
               <img src={slide2} className="carousel-img d-block w-100" alt="..." />
               <div className="carousel-caption d-md-block">
-                <h1 className='title-slide'>Contamos con Soldadores Calificados</h1>
-                <h4 className='subtitle-slide'> Con certificación ISO XXXX</h4>
+                <h1 className='title-slide'>Carpintería Metálica en General</h1>
+                <h4 className='subtitle-slide'>Nos encargamos de concretar tus proyectos en acero</h4>
               </div>
             </div>
             <div className="home carousel-item">
@@ -63,10 +63,13 @@ const Home = ()=>{
         <div className="row">
             <div className="d-flex align-items-center col-xl-6 col-log-6 col-md-6 mt-4">
               
-                <p className="text"> Somos una empresa de ingenería con más de 30 años de experiencia en diseño, cálculo, fabricación y montajes de estructuras metálicas, donde hemos participado en proyectos habitacionales e industriales. 
-                Contamos con un gran equipo humano de XXXX personas compuesto por profesionales y técnicos del área de ingeniería, comprometidos en cumplir el más alto estándar de calidad
-                en todos nuestros proyectos.
-                Nuestro gran desempeño y experiencia nos ha permitado trabajar con clientes como: XXX,XXX,XXX, entre otros.
+                <p className="text-justify"> Somos una empresa dedicada a la conformación de proyectos industiales desde sus inicios, con experiencia
+                en diseño, cálculo, fabricación y montaje de estructuras metálicas en general. Llevamos más de 15 años prestando servicios a la industriales y
+                nuestros clientes nos respaldan.
+                Contamos con un gran equipo humano y con un personal sumamente calificado en cada una de las especializadas de nuestros servicios, 
+                los que nos encontramos comprometidos en cumplir el más alto estándar de calidad en todos nuestros proyectos.
+                Nuestro gran desempeño y experiencia nos ha permitido trabajar con clientes como: Walmart, Constructura e Inmobiliaria Santolaya, Banco Estado, 
+                Espacio Urbano, Guleica, Forjados, Autoplanet, dismelec, Felton, entre otros.
                 </p>
             </div>
             <div className="d-flex align-items-center col-xl-6 col-log-6 col-md-6 mt-4">

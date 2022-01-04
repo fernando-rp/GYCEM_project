@@ -7,9 +7,9 @@ import semaiz3 from '../img/pro/semaiz3.png'
 import gaf1 from '../img/pro/gaf1.png'
 import gaf2 from '../img/pro/gaf2.png'
 import gaf3 from '../img/pro/gaf3.png'
-import gac1 from '../img/pro/gac1.png'
-import gac2 from '../img/pro/gac2.png'
-import gac3 from '../img/pro/gac3.png'
+import p1 from '../img/pro/p1.jpeg'
+import p2 from '../img/pro/p2.jpeg'
+import p3 from '../img/pro/p3.jpeg'
 import m1 from '../img/pro/m1.png'
 import m2 from '../img/pro/m2.png'
 import m3 from '../img/pro/m3.png'
@@ -47,12 +47,12 @@ const proyectos=[{
     c_id:"c3"
 },
 {
-    nombre:"Galpón de Acopio",
-    año: "2000",
-    descripción: "Galpón de Acopio. Constructura PROYEKTA. Curacaví.",
-    foto1: gac1,
-    foto2: gac2,
-    foto3: gac3,
+    nombre:"Puente Vial Metálico Las Bermejas",
+    año: "2019",
+    descripción: "Puente de Acero ubicado en las Bermejas. Curacaví. ",
+    foto1: p1,
+    foto2: p2,
+    foto3: p3,
     c_id:"c4"
 },
 {
@@ -84,9 +84,9 @@ const ProyectosDestacados = ()=>{
     <div className="row">
         <div className="col-12 mt-4">
             <h1 className="title-views mb-4">Proyectos destacados:</h1>
-            <p>A partir de nuestros más 30 años de experiencia en la ingeniería y fabricación de estructuras de acero, 
-                contamos con una variada carperta de proyectos que hemos logrado llevar a cabo. Estos proyectos, con diversas complejidades, 
-                son parte de la base de nuestra experiencia y una muestra de nuestras capacidades. A continuación, destacamos algunos de ellos:</p>
+            <p>A partir de nuestros más 15 años de experiencia en la industria, contamos con una variada y extensa carpeta de proyectos en los que nos hemos participado. 
+                Estos proyectos, con diversas complejidades, son parte de la base de nuestra experiencia y una muestra de nuestras capacidades. 
+                A continuación, destacamos algunos de ellos:</p>
         </div>
     </div>
     <div className="row">

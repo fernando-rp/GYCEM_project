@@ -7,7 +7,7 @@ const NotFound = ()=>{
         <div className="row">
             <div className="col-12 mt-4">
                 <h1 className="title-views"> ¡Ups, Error 404!</h1>
-                <h3>Lo sentimos, la página que busca no existe</h3>
+                <h4>Lo sentimos, la página que busca no existe.</h4>
 
             </div>
         </div>

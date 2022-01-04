@@ -21,16 +21,20 @@ return (
         </div>
         <div className="row">
             <div className="col-12 mt-4">
-                <p className="text">El equipo de GYCEM se compone de Ingenieros Civiles Estructurales con experiencia desmotrable en el cálculo de estructuras de diversa índole y en distintas etapas de la ingeniería. Nuestras áreas de experiencia abarca:</p>
+                <p className="text">El equipo de GYCEM se compone de profesionales y técnicos altamente calificados con experiencia demostrable en el 
+                diseño y cálculo de estructuras, y en la fabricación y el montaje de diversas estructuras metálicas. Nuestras áreas de experiencia abarcan:</p>
                 <ul>
                     <li>Estructuras de Hormigón Armado: estructuras enterradas de grandes proporciones, fundaciones en general, estructuras de retención, puentes de acceso, entre otros</li>
-                    <li>Estructuras de Acero: galpones industriales, plataformas elevadas, edificios de acero (torres de transferencias), galerías para correas trasnportadoras, estructuras esporádicas, estructuras de soporte para equipos, entre otros</li>
+                    <li>Estructuras de Acero: galpones industriales con/sin puente grúa, plataformas elevadas, edificios de acero (torres de transferencias), galerías para correas transportadoras, estructuras temporales, estructuras de soporte para equipos, entre otros</li>
                     <li>Estructuras Portuarias: cabezos, muelles de penetración, muelles marginales, estructuras de amarre y atraque, puentes de acceso, entre otros</li>
                     <li>Otros análisis: <ul>
-                        <li>Análisis Sísmico Especializados</li>
+                        <li>Análisis Sísmico Especializado</li>
                         <li>Estructuras Prefabricadas</li>
+                        <li>Estructuras portuarias</li>
+                        <li>Estructuras para la Minería</li>
                         <li>Reguralizaciones de Construcciones Privadas</li>
                         <li>Asesorías a la Construcción</li>
+                        <li>Elaboración de planos de diseño y de fabricación</li>
                         </ul>
                         </li>
                 </ul>
@@ -81,27 +85,30 @@ return (
 
         <div className="row">
             <div className="col-12 mt-2">
-                <h1 className="title-views">Taller de Operaciones</h1>
+                <h1 className="title-views">Área de Producción - Maestranza</h1>
             </div>
         </div>
         <div className="row">
             <div className="col-12 mt-2">
                 <p className="text">Contamos con un taller de fabricación y oficina de operaciones en la comuna de Lampa. Las características de nuestro taller son:</p>
                 <ul>
-                    <li>Área de trabajo: <ul>
-                        <li>700m2 de superficie techada.</li>
+                    <li>Área de fabricación: <ul>
+                        <li>1500m2 de superficie techada.</li>
                         <li>1500m2 patio de pintura, acopio, maniobras de carga y descarga.</li>
+                        <li>46m2 de oficinas de administración.</li>
                         </ul>
                     </li>
-                    <li>Maquinaria: <ul>
-                        <li>Maquinaría MIG y arca manual.</li>
+                    <li>Equipamiento: <ul>
+                        <li>Máquinas MIG, arco Manual (MMAW) y arco sumergido (SAW).</li>
+                        <li>Equipo de corte; oxicorte y por plasma.</li>
                         <li>Equipo de corte; oxicorte y por plasma.</li>
                         </ul>
                     </li>
                     <li>Operaciones : <ul>
-                        <li>Grúa horquilla 2.5 ton.</li>
+                        <li>Grúa horquilla 5.0 ton.</li>
                         <li>Puente grúa 8mx5m, 3ton.</li>
-                        <li>Camión pluma 5ton.</li>
+                        <li>Camiones pluma 5ton y 7ton.</li>
+                        <li>Camiones 3/4 de transporte.</li>
                         </ul>
                     </li>
                 </ul>
@@ -133,7 +140,7 @@ return (
 
         <div className="row mb-4">
             <div className="col-12 mt-2">
-                <p className="text">En GYCEM nos preocupamos por la seguridad de nuestros trabajaores y es por eso, que contamos con manuales y certificaciones para operar bajo los estándares vigentes de seguridad. Nuestra compañía cuenta con: </p>
+                <p className="text">En GYCEM nos preocupamos por la seguridad de nuestros trabajadores y es por eso, que contamos con manuales y certificaciones para operar bajo los estándares vigentes de seguridad. Nuestra compañía cuenta con: </p>
                 <ul>
                     <li>Afiliación a Mutual de Seguridad.</li>
                     <li>Manual interno de Orden, Higiene y Seguridad.</li>

@@ -10,12 +10,14 @@ const Contacto = ()=>{
 
         <div className="row">
             <div className="col-12 mt-4">
-                <p className="text"> Para cualquier tipo de información o si necesitas cotizar alguno de nuestros servicios, por favor comunícate con nosotros al siguiente contacto:</p>
-                <p className="text">contacto@gycem.cl - +569 1234 5678</p>
-                
+                <p className="text"> Para cualquier tipo de información o si necesitas cotizar alguno de nuestros servicios, por favor comunícate con nosotros a cualquiera de los siguientes contactos:</p>
+                <ul className="">
+                    <li className="">contacto@gycem.cl</li>
+                    <li className="">Wilson González / Gerente de Operaciones: wgonzalez@gycem.cl / +569 6306 0230.</li>
+                </ul>       
 
-                <p className="text">También puedes encontrarnos en nuestro taller ubicado en:</p>
-                <p className="text">Cacique Colín km. 9650, Lampa, R.M., Chile.</p>  
+                <p className="text">También nos puedes encontrar en nuestras instalaciones. Nos ubicamos en:</p>
+                <p className="text">Cacique Colin km. 9650, Comuna Lampa, R.M., Chile. Link ubicación: <a href="https://goo.gl/maps/ZRuU4wCLQzkC7wLG8" target="_blank" >Pincha aquí para conocer ubicación</a>       </p>  
             </div>
         </div>
         </div>
