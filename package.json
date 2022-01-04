@@ -1,5 +1,6 @@
 {
   "name": "gycem-app",
+  "homepage": "https://gycem.cl/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
