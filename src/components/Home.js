@@ -4,9 +4,6 @@ import slide2 from '../img/slide2.jpeg'
 import slide3 from '../img/slide3.jpeg'
 import logogycemor from '../img/logogycemor.jpg'
 
-import card3 from '../img/card3.jpeg'
-import card4 from '../img/card4.jpeg'
-
 import Contacto from './Contacto'
 
 
@@ -69,7 +66,7 @@ const Home = ()=>{
                 Contamos con un gran equipo humano y con un personal sumamente calificado en cada una de las especializadas de nuestros servicios, 
                 los que nos encontramos comprometidos en cumplir el más alto estándar de calidad en todos nuestros proyectos.
                 Nuestro gran desempeño y experiencia nos ha permitido trabajar con clientes como: Walmart, Constructura e Inmobiliaria Santolaya, Banco Estado, 
-                Espacio Urbano, Guleica, Forjados, Autoplanet, dismelec, Felton, entre otros.
+                Espacio Urbano, Guleica, Forjados, Autoplanet, Dismelec, Felton, entre otros.
                 </p>
             </div>
             <div className="d-flex align-items-center col-xl-6 col-log-6 col-md-6 mt-4">

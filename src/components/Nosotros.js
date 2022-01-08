@@ -6,8 +6,7 @@ import card3 from '../img/card3.jpeg'
 import card4 from '../img/card4.jpeg'
 import taller1 from '../img/taller1.png'
 import taller2 from '../img/taller2.png'
-import taller3 from '../img/taller3.png'
-import taller4 from '../img/taller4.png'
+
 
 
 const Nosotros = ()=> {
@@ -24,15 +23,13 @@ return (
                 <p className="text">El equipo de GYCEM se compone de profesionales y técnicos altamente calificados con experiencia demostrable en el 
                 diseño y cálculo de estructuras, y en la fabricación y el montaje de diversas estructuras metálicas. Nuestras áreas de experiencia abarcan:</p>
                 <ul>
-                    <li>Estructuras de Hormigón Armado: estructuras enterradas de grandes proporciones, fundaciones en general, estructuras de retención, puentes de acceso, entre otros</li>
-                    <li>Estructuras de Acero: galpones industriales con/sin puente grúa, plataformas elevadas, edificios de acero (torres de transferencias), galerías para correas transportadoras, estructuras temporales, estructuras de soporte para equipos, entre otros</li>
-                    <li>Estructuras Portuarias: cabezos, muelles de penetración, muelles marginales, estructuras de amarre y atraque, puentes de acceso, entre otros</li>
+                    <li>Estructuras de Hormigón Armado: estructuras enterradas de grandes proporciones, fundaciones en general, estructuras de retención, puentes de acceso, entre otros.</li>
+                    <li>Estructuras de Acero: galpones industriales con/sin puente grúa, plataformas elevadas, edificios de acero (torres de transferencias), galerías para correas transportadoras, estructuras temporales, estructuras de soporte para equipos, entre otros.</li>
                     <li>Otros análisis: <ul>
                         <li>Análisis Sísmico Especializado</li>
                         <li>Estructuras Prefabricadas</li>
                         <li>Estructuras portuarias</li>
                         <li>Estructuras para la Minería</li>
-                        <li>Reguralizaciones de Construcciones Privadas</li>
                         <li>Asesorías a la Construcción</li>
                         <li>Elaboración de planos de diseño y de fabricación</li>
                         </ul>
@@ -105,9 +102,9 @@ return (
                         </ul>
                     </li>
                     <li>Operaciones : <ul>
-                        <li>Grúa horquilla 5.0 ton.</li>
-                        <li>Puente grúa 8mx5m, 3ton.</li>
-                        <li>Camiones pluma 5ton y 7ton.</li>
+                        <li>Grúa horquilla 5.0ton.</li>
+                        <li>Puente grúa 8mx5m/3.0ton.</li>
+                        <li>Camiones pluma 5.0ton y 7.0ton.</li>
                         <li>Camiones 3/4 de transporte.</li>
                         </ul>
                     </li>
@@ -147,7 +144,6 @@ return (
                     <li>Manual de Procedimientos Interno de Trabajo Seguro.</li>
                     <li>Manual de Procedimientos Interno de Trabajo Seguro en Altura.</li>
                     <li>Manual de Procedmientos Interno en Caso de Emergencia.</li>
-                    <li>Manual de Procedmientos Interno para Fabricación de Estructuras Metálicas.</li>
                     <li>Manual de Procedmientos Interno para Fabricación de Estructuras Metálicas.</li>
                 </ul>
 

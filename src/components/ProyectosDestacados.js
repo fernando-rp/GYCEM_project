@@ -13,9 +13,9 @@ import p3 from '../img/pro/p3.jpeg'
 import m1 from '../img/pro/m1.png'
 import m2 from '../img/pro/m2.png'
 import m3 from '../img/pro/m3.png'
-import mod1 from '../img/pro/mod1.png'
-import mod2 from '../img/pro/mod2.png'
-import mod3 from '../img/pro/mod3.png'
+import gac1 from '../img/pro/gac1.png'
+import gac2 from '../img/pro/gac2.png'
+import gac3 from '../img/pro/gac3.png'
 
 
 const proyectos=[{
@@ -40,7 +40,7 @@ const proyectos=[{
 {
     nombre:"Galpón Acería Forjados S.A.",
     año: "2000",
-    descripción: "Proyecto que consistió en Puente de Grúa 25tof, filtro de manga, calderas y hornos de temple. Lampa.",
+    descripción: "Proyecto que consistió en Puente de Grúa 25t, filtro de manga, calderas y hornos de temple. Lampa.",
     foto1: gaf1,
     foto2: gaf2,
     foto3: gaf3,
@@ -65,12 +65,12 @@ const proyectos=[{
     c_id:"c5",
 },
 {
-    nombre:"Soluciones Modulares",
-    año: "2021",
-    descripción: "Fabricación de módulos prefabricados para oficinas, sector habitacional e industrial.",
-    foto1: mod1,
-    foto2: mod2,
-    foto3: mod3,
+    nombre:"Galpón de Acopio",
+    año: "2016",
+    descripción: "Galpón de Acopio. Curacaví.",
+    foto1: gac1,
+    foto2: gac2,
+    foto3: gac3,
     c_id:"c6"
 },
 ]
