@@ -29,11 +29,11 @@ const Contacto = ()=>{
                             <li className="team">Cecilia Garrido - cgarrido@gycem.cl - +569 4799 9844</li>
                         </ul>
                     </li>
-                    <li className="teams"> Coordinador de Proyectos
+                    {/* <li className="teams"> Coordinador de Proyectos
                         <ul>
                             <li className="team">Wilson González S. - contacto@gycem.cl - +569 4001 0761</li>
                         </ul>
-                    </li>
+                    </li> */}
                 </ul>       
 
                 <p className="text">También nos puedes encontrar en nuestras instalaciones. Nos ubicamos en:</p>
